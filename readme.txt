@@ -1,2 +1,2 @@
-auto add route for IPsec vpn in mac system
+auto add route for IPsec vpn in MAC os
 
